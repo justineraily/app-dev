@@ -1,5 +1,3 @@
-# app-dev
-My first repository
 
 'Crush'
 
