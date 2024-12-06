@@ -1,4 +1,1 @@
-# app-dev
-My first repository
-
-Tokyo Japan
+My dream is NBA 2K Developer
