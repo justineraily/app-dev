@@ -1,1 +1,1 @@
-My Favorite Game is Valorant and Mobile Legends
+My Favorite Application Development and Emerging Technologies
