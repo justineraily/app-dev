@@ -4,4 +4,4 @@ Sinigang
 
 Pork, 
 Kangkong, 
-Sinigang Mix, 
+Sinigang Mix
