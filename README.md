@@ -1,4 +1,6 @@
 # app-dev
 My first repository
 
-Nash Love Miranda
+My name is Justine De Castro
+im from Alangilan Batangas City
+My favorite color is black
